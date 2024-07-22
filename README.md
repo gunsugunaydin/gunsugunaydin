@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Günsu <img src="https://media.tenor.com/DJZg821DI_IAAAAi/peach-goma-pc-bag-wiggling-paws.gif" alt="Waving Hand" width="60" height="60"></h1>
+<h1 align="center">Hi there, I'm Günsu <img src="https://i.pinimg.com/originals/17/07/46/17074670b1d2d663fe3521a03f40c37c.gif" alt="Waving Hand" width="60" height="60"> </h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gunsugunaydin/">
@@ -6,7 +6,7 @@
   </a>
 </p>
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies <img src="https://media.tenor.com/DJZg821DI_IAAAAi/peach-goma-pc-bag-wiggling-paws.gif" alt="Waving Hand" width="60" height="60">
 
 ### Programming Languages
 <table>
