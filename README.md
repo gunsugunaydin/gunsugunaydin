@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Günsu <img src="https://i.pinimg.com/originals/1e/d2/f2/1ed2f24a0444ee7a3f59f6aaa5f9d092.gif" alt="Waving Hand" width="50" height="50"></h1>
+<h1 align="center">Hi there, I'm Günsu <img src="https://i.pinimg.com/originals/1e/d2/f2/1ed2f24a0444ee7a3f59f6aaa5f9d092.gif" alt="Waving Hand" width="70" height="70"></h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gunsugunaydin/">
