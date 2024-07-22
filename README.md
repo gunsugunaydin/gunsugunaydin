@@ -5,7 +5,9 @@
 🎓 I'm a Computer Engineering graduate from TED University (2023) with a minor in Business Administration.  
 🔭 Currently developing myself in Java backend technologies, particularly the Spring framework.  
 💼 Passionate about software engineering and always eager to take on new challenges.
+
 &nbsp;
+
 ## 📫 Contact Me <img src="https://media.tenor.com/NTy_T_Van7wAAAAj/peach-goma-lying-down.gif" alt="Waving Hand" width="60" height="60">
 
 <p align="left">
@@ -19,6 +21,8 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
+
+&nbsp;
 
 ## 🛠️ Languages & Tools <img src="https://media.tenor.com/DJZg821DI_IAAAAi/peach-goma-pc-bag-wiggling-paws.gif" alt="Waving Hand" width="60" height="60">
 
@@ -44,6 +48,8 @@
   </tr>
 </table>
 
+&nbsp;
+
 ### Frameworks and Libraries
 <table>
   <tr>
@@ -57,6 +63,8 @@
     </td>
   </tr>
 </table>
+
+&nbsp;
 
 ### Tools, IDEs, and Editors
 <table>
@@ -99,6 +107,8 @@
     </td>
   </tr>
 </table>
+
+&nbsp;
 
 ### Databases and Tools
 <table>
