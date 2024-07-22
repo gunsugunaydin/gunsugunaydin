@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <img src="https://i.pinimg.com/originals/17/07/46/17074670b1d2d663fe3521a03f40c37c.gif" alt="Waving Hand" width="60" height="60"> Günsu </h1>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/gunsugunaydin/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -100,6 +100,7 @@
     <td align="center" width="96">
       <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="48" height="48" alt="MySQL" />
       <br>MySQL
+    </td>
     <td align="center" width="96">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUmnFYeOmmAlNV9_ZTu5cYgS2L55Q1pt9QyA&s" width="48" height="48" alt="PgAdmin" />
       <br>PgAdmin
@@ -117,7 +118,7 @@
 
 ## 📫 Contact Me <img src="https://media.tenor.com/NTy_T_Van7wAAAAj/peach-goma-lying-down.gif" alt="Waving Hand" width="60" height="60">
 
-<p align="center">
+<p align="left">
   <a href="mailto:gunsugunay98@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
