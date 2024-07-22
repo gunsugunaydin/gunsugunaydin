@@ -109,13 +109,13 @@
 
 ## 🚀 About Me <img src="https://i.pinimg.com/originals/0e/8c/bb/0e8cbb36eb1684d16ca0932d655fadcb.gif" alt="Waving Hand" width="60" height="60">
 
-🎓 I'm a Computer Engineering graduate from TED University (2023) with a minor in Business Administration.
-🔭 Currently developing myself in Java backend technologies, particularly the Spring framework.
+🎓 I'm a Computer Engineering graduate from TED University (2023) with a minor in Business Administration.  
+🔭 Currently developing myself in Java backend technologies, particularly the Spring framework.  
 💼 Passionate about software engineering and always eager to take on new challenges.
 
 ---
 
-## 📫 Contact Me <img src="https://media.tenor.com/8sx3kniNsIEAAAAj/coopsie-cooper.gif" alt="Waving Hand" width="60" height="60">
+## 📫 Contact Me <img src="https://media.tenor.com/NTy_T_Van7wAAAAj/peach-goma-lying-down.gif" alt="Waving Hand" width="60" height="60">
 
 <p align="center">
   <a href="mailto:gunsugunay98@gmail.com">
