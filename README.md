@@ -39,7 +39,7 @@
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Studio"/>
   <img src="https://img.icons8.com/color/48/000000/swagger.png" alt="Swagger"/>
-  <img src="https://img.icons8.com/ios/50/000000/postman-api.png" alt="Postman"/>
+  <img src="https://img.icons8.com/color/48/000000/postman.png" alt="Postman"/>
   <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
   <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub"/>
