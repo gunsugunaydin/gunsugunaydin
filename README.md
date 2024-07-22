@@ -64,7 +64,7 @@
       <br>Visual Studio
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/swagger.png" width="48" height="48" alt="Swagger" />
+      <img src="https://seeklogo.com/images/S/swagger-logo-A49F73BAF4-seeklogo.com.png" width="48" height="48" alt="Swagger" />
       <br>Swagger
     </td>
     <td align="center" width="96">
