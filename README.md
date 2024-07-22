@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Günsu 👋</h1>
+<h1 align="center">Hi there, I'm Günsu <img src="https://github.com/gunsugunaydin/gunsugunaydin/blob/main/waving_hand.gif" width="30" alt="waving hand"/></h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gunsugunaydin/">
