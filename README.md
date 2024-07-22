@@ -68,7 +68,7 @@
       <br>Swagger
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/postman.png" width="48" height="48" alt="Postman" />
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
     <td align="center" width="96">
