@@ -94,7 +94,7 @@
       <br>MSSQL
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/dbeaver.png" width="48" height="48" alt="DBeaver" />
+      <img src="https://dbeaver.com/img/dbeaver-head.png" width="48" height="48" alt="DBeaver" />
       <br>DBeaver
     </td>
     <td align="center" width="96">
@@ -102,7 +102,7 @@
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/postgresql.png" width="48" height="48" alt="PgAdmin" />
+      <img src="https://wiki.postgresql.org/images/thumb/8/8e/Pgadmin_logo.png/600px-Pgadmin_logo.png" width="48" height="48" alt="PgAdmin" />
       <br>PgAdmin
     </td>
   </tr>
