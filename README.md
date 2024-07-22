@@ -70,8 +70,8 @@
       <br>Eclipse IDE
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="48" height="48" alt="VS Code" />
-      <br>Visual Studio Code
+      <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="48" height="48" alt="Visual Studio Code" />
+      <br>VS Code
     </td>
     <td align="center" width="96">
       <img src="https://img.icons8.com/color/48/000000/visual-studio.png" width="48" height="48" alt="Visual Studio" />
