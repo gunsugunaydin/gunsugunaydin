@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Günsu 👋</h1>
+<h1 align="center">Hi there, I'm Günsu <img src="https://i.pinimg.com/originals/1e/d2/f2/1ed2f24a0444ee7a3f59f6aaa5f9d092.gif" alt="Waving Hand" width="30" height="30"></h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gunsugunaydin/">
@@ -109,19 +109,22 @@
 
 ## 🚀 About Me
 
-- 🎓 I'm a Computer Engineering graduate from TED University (2023) with a minor in Business Administration.
-- 🔭 Currently developing myself in Java backend technologies, particularly the Spring framework.
-- 💼 Passionate about software engineering and always eager to take on new challenges.
+🎓 I'm a Computer Engineering graduate from TED University (2023) with a minor in Business Administration.
+🔭 Currently developing myself in Java backend technologies, particularly the Spring framework.
+💼 Passionate about software engineering and always eager to take on new challenges.
 
 ---
 
 ## 📫 Contact Me
 
-<p>
+<p align="center">
   <a href="mailto:gunsugunay98@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/gunsugunaydin/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/gunsugunaydin/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
