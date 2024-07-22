@@ -101,7 +101,7 @@
       <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="48" height="48" alt="MySQL" />
       <br>MySQL
     <td align="center" width="96">
-      <img src="https://www.pgadmin.org/static/img/logo_pgadmin.svg" width="48" height="48" alt="PgAdmin" />
+      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3APostgresql_elephant.svg&psig=AOvVaw2SVAPGRnZgTapn1TIBE2X3&ust=1721753547755000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODz2PeNu4cDFQAAAAAdAAAAABAK" width="48" height="48" alt="PgAdmin" />
       <br>PgAdmin
     </td>
   </tr>
