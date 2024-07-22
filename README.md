@@ -35,7 +35,7 @@
 ### Tools, IDEs, and Editors
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA"/>
-  <img src="https://img.icons8.com/offices/48/000000/eclipse.png" alt="Eclipse IDE"/>
+  <img src="https://img.icons8.com/color/48/000000/eclipse.png" alt="Eclipse IDE"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" alt="Visual Studio"/>
   <img src="https://img.icons8.com/color/48/000000/swagger.png" alt="Swagger"/>
@@ -48,7 +48,7 @@
 ### Databases and Tools
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="MSSQL"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-dbeaver-a-universal-database-tool-and-sql-client-logo-shadow-tal-revivo.png" alt="DBeaver"/>
+  <img src="https://img.icons8.com/color/48/000000/dbeaver.png" alt="DBeaver"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
   <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PgAdmin"/>
 </p>
