@@ -1,10 +1,26 @@
-<h1 align="center">Hi there, I'm<img src="https://i.pinimg.com/originals/17/07/46/17074670b1d2d663fe3521a03f40c37c.gif" alt="Waving Hand" width="60" height="60">Günsu </h1>
+<h1 align="center">Hi there, I'm <img src="https://i.pinimg.com/originals/17/07/46/17074670b1d2d663fe3521a03f40c37c.gif" alt="Waving Hand" width="60" height="60"> Günsu </h1>
+
+## 📫 Contact Me <img src="https://media.tenor.com/NTy_T_Van7wAAAAj/peach-goma-lying-down.gif" alt="Waving Hand" width="60" height="60">
 
 <p align="left">
+  <a href="mailto:gunsugunay98@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/gunsugunaydin/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/gunsugunaydin/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
+
+## 🚀 About Me <img src="https://i.pinimg.com/originals/0e/8c/bb/0e8cbb36eb1684d16ca0932d655fadcb.gif" alt="Waving Hand" width="60" height="60">
+
+🎓 I'm a Computer Engineering graduate from TED University (2023) with a minor in Business Administration.  
+🔭 Currently developing myself in Java backend technologies, particularly the Spring framework.  
+💼 Passionate about software engineering and always eager to take on new challenges.
+
+---
 
 ## 🛠️ Tools & Technologies <img src="https://media.tenor.com/DJZg821DI_IAAAAi/peach-goma-pc-bag-wiggling-paws.gif" alt="Waving Hand" width="60" height="60">
 
@@ -107,25 +123,3 @@
     </td>
   </tr>
 </table>
-
-## 🚀 About Me <img src="https://i.pinimg.com/originals/0e/8c/bb/0e8cbb36eb1684d16ca0932d655fadcb.gif" alt="Waving Hand" width="60" height="60">
-
-🎓 I'm a Computer Engineering graduate from TED University (2023) with a minor in Business Administration.  
-🔭 Currently developing myself in Java backend technologies, particularly the Spring framework.  
-💼 Passionate about software engineering and always eager to take on new challenges.
-
----
-
-## 📫 Contact Me <img src="https://media.tenor.com/NTy_T_Van7wAAAAj/peach-goma-lying-down.gif" alt="Waving Hand" width="60" height="60">
-
-<p align="left">
-  <a href="mailto:gunsugunay98@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/gunsugunaydin/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/gunsugunaydin/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
