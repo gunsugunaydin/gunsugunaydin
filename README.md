@@ -100,9 +100,8 @@
     <td align="center" width="96">
       <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="48" height="48" alt="MySQL" />
       <br>MySQL
-    </td>
     <td align="center" width="96">
-      <img src="https://wiki.postgresql.org/images/9/98/Pgadmin-logo.png" width="48" height="48" alt="PgAdmin" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pgadmin/pgadmin-original-wordmark.svg" width="48" height="48" alt="PgAdmin" />
       <br>PgAdmin
     </td>
   </tr>
