@@ -20,7 +20,7 @@
   </a>
 </p>
 
-## 🛠️ Languages & Tools <img src="https://media.tenor.com/DJZg821DI_IAAAAi/peach-goma-pc-bag-wiggling-paws.gif" alt="Waving Hand" width="60" height="60">
+## 🛠️ Languages and Tools <img src="https://media.tenor.com/DJZg821DI_IAAAAi/peach-goma-pc-bag-wiggling-paws.gif" alt="Waving Hand" width="60" height="60">
 
 ### Programming Languages
 <table>
