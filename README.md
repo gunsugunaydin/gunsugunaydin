@@ -52,6 +52,10 @@
       <br>Spring Boot
     </td>
     <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/000000/hibernate.png" width="48" height="48" alt="Hibernate" />
+      <br>Hibernate
+    </td>
+    <td align="center" width="96">
       <img src="https://img.icons8.com/color/48/000000/net-framework.png" width="48" height="48" alt=".NET" />
       <br>.NET
     </td>
