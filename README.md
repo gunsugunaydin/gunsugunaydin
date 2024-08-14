@@ -108,18 +108,18 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="48" height="48" alt="MSSQL" />
-      <br>MSSQL
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUmnFYeOmmAlNV9_ZTu5cYgS2L55Q1pt9QyA&s" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
     </td>
     <td align="center" width="96">
       <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="48" height="48" alt="MySQL" />
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUmnFYeOmmAlNV9_ZTu5cYgS2L55Q1pt9QyA&s" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
+      <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="48" height="48" alt="MSSQL" />
+      <br>MSSQL
     </td>
-        <td align="center" width="96">
+    <td align="center" width="96">
       <img src="https://dbeaver.com/img/dbeaver-head.png" width="48" height="48" alt="DBeaver" />
       <br>DBeaver
     </td>
