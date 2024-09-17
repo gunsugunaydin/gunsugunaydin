@@ -30,7 +30,7 @@
       <br>Java
     </td>
       <td align="center" width="96">
-      <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="48" height="48" alt="JavaScript" />
+      <img src="https://toppng.com/uploads/preview/javascript-logo-number-angularjs-node-javascript-logo-11563241338go76tq0nxz.png" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
@@ -98,7 +98,7 @@
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="48" height="48" alt="GitHub" />
+      <img src="https://cdn.icon-icons.com/icons2/3685/PNG/512/github_logo_icon_229278.png" width="48" height="48" alt="GitHub" />
       <br>GitHub
     </td>
     <td align="center" width="96">
