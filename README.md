@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I'm <img src="https://media.tenor.com/BKA6WA2IvPUAAAAj/hi-there.gif" alt="Waving Hand" width="50" height="50"> Günsu </h1>
 
-## 🚀 About Me <img src="https://media.tenor.com/nBQQ6XM5BhIAAAAj/cute.gif" alt="About Me" width="60" height="60">
+## 🚀 About Me <img src="https://media.tenor.com/nBQQ6XM5BhIAAAAj/cute.gif" alt="About Me" width="65" height="65">
 
 🎓 I'm a Computer Engineering graduate from TED University (2023) with a minor in Business Administration.  
 🏋️ Currently developing myself in Java backend technologies, particularly the Spring framework.  
 ✨ Passionate about software engineering and always eager to take on new challenges.
 &nbsp;
-## 📫 Contact Me <img src="https://media.tenor.com/ggjli1Kk3s4AAAAi/phone.gif" alt="Contact Me" width="70" height="65">
+## 📫 Contact Me <img src="https://media.tenor.com/ggjli1Kk3s4AAAAi/phone.gif" alt="Contact Me" width="60" height="60">
 
 <p align="left">
   <a href="mailto:gunsugunay98@gmail.com">
@@ -20,7 +20,7 @@
   </a>
 </p>
 
-## 🛠️ Languages and Tools <img src="https://media.tenor.com/DJZg821DI_IAAAAi/peach-goma-pc-bag-wiggling-paws.gif" alt=" Languages and Tools" width="50" height="50">
+## 🛠️ Languages and Tools <img src="https://media.tenor.com/DJZg821DI_IAAAAi/peach-goma-pc-bag-wiggling-paws.gif" alt=" Languages and Tools" width="60" height="60">
 
 ### Programming Languages
 <table>
