@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <img src="https://i.pinimg.com/originals/f7/28/92/f72892cec8e129bfd8ee70696f77d43d.gif" alt="Waving Hand" width="60" height="60"> Günsu </h1>
+<h1 align="center">Hi there, I'm <img src="https://media.tenor.com/Ol_v59QAUgEAAAAi/dance-cat.gif" alt="Waving Hand" width="60" height="60"> Günsu </h1>
 
 ## 🚀 About Me <img src="https://media.tenor.com/nBQQ6XM5BhIAAAAj/cute.gif" alt="About Me" width="60" height="60">
 
