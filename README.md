@@ -6,7 +6,7 @@
 🏋️ Currently developing myself in Java backend technologies, particularly the Spring framework.  
 ✨ Passionate about software engineering and always eager to take on new challenges.
 &nbsp;
-## 📫 Contact Me <img src="https://media.tenor.com/ggjli1Kk3s4AAAAi/phone.gif" alt="Contact Me" width="65" height="65">
+## 📫 Contact Me <img src="https://media.tenor.com/ggjli1Kk3s4AAAAi/phone.gif" alt="Contact Me" width="70" height="65">
 
 <p align="left">
   <a href="mailto:gunsugunay98@gmail.com">
