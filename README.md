@@ -33,6 +33,10 @@
       <img src="https://img.icons8.com/color/48/000000/sql.png" width="48" height="48" alt="SQL" />
       <br>SQL
     </td>
+      <td align="center" width="96">
+      <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
     <td align="center" width="96">
       <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" width="48" height="48" alt="C#" />
       <br>C#
