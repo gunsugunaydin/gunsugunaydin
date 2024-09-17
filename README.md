@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <img src="https://github.com/user-attachments/assets/0a727542-03ad-4026-b4dd-0884de152d0e" alt="Waving Hand" width="60" height="60"> Günsu </h1>
+<h1 align="center">Hi there, I'm <img src="https://i.pinimg.com/originals/a0/c3/f4/a0c3f448155401cde3976c8084678b19.gif" alt="Waving Hand" width="60" height="60"> Günsu </h1>
 
 ## 🚀 About Me <img src="https://i.pinimg.com/originals/0e/8c/bb/0e8cbb36eb1684d16ca0932d655fadcb.gif" alt="About Me" width="60" height="60">
 
