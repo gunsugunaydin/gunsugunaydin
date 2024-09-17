@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm <img src="https://i.pinimg.com/originals/a0/c3/f4/a0c3f448155401cde3976c8084678b19.gif" alt="Waving Hand" width="60" height="60"> Günsu </h1>
+<h1 align="center">Hi there, I'm <img src="https://i.pinimg.com/originals/c9/1d/06/c91d065411007a422de43c2489114bdf.gif" alt="Waving Hand" width="60" height="60"> Günsu </h1>
 
-## 🚀 About Me <img src="https://i.pinimg.com/originals/0e/8c/bb/0e8cbb36eb1684d16ca0932d655fadcb.gif" alt="About Me" width="60" height="60">
+## 🚀 About Me <img src="https://media.tenor.com/nBQQ6XM5BhIAAAAj/cute.gif" alt="About Me" width="60" height="60">
 
 🎓 I'm a Computer Engineering graduate from TED University (2023) with a minor in Business Administration.  
 🏋️ Currently developing myself in Java backend technologies, particularly the Spring framework.  
