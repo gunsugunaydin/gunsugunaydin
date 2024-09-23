@@ -3,7 +3,7 @@
 ## 🚀 About Me <img src="https://media.tenor.com/nBQQ6XM5BhIAAAAj/cute.gif" alt="About Me" width="63" height="63">
 
 🎓 I'm a Computer Engineering graduate from TED University (2023) with a minor in Business Administration.  
-🏋️ Currently developing myself in Java backend technologies, particularly the Spring framework.  
+🏋️ Currently developing myself in backend technologies, particularly the Spring framework.  
 ✨ Passionate about software engineering and always eager to take on new challenges.
 &nbsp;
 ## 📫 Contact Me <img src="https://media.tenor.com/ggjli1Kk3s4AAAAi/phone.gif" alt="Contact Me" width="60" height="60">
