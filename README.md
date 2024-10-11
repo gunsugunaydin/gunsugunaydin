@@ -41,9 +41,6 @@
       <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" width="48" height="48" alt="C#" />
       <br>C#
     </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="48" height="48" alt="C" />
-      <br>C
     </td>
   </tr>
 </table>
