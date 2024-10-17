@@ -61,7 +61,7 @@
       <br>.NET
     </td>
     <td align="center" width="96">
-      <img src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" width="48" height="48" alt="React" />
+      <img src="https://e7.pngegg.com/pngimages/255/1006/png-clipart-react-javascript-webbylab-computer-icons-angularjs-github-text-logo.png" width="48" height="48" alt="React" />
       <br>React
     </td>
   </tr>
