@@ -60,6 +60,10 @@
       <img src="https://img.icons8.com/color/48/000000/net-framework.png" width="48" height="48" alt=".NET" />
       <br>.NET
     </td>
+    <td align="center" width="96">
+      <img src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" width="48" height="48" alt="React" />
+      <br>React
+    </td>
   </tr>
 </table>
 
