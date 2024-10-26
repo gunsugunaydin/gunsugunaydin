@@ -2,7 +2,7 @@
 
 ## About Me <img src="https://media.tenor.com/nBQQ6XM5BhIAAAAj/cute.gif" alt="About Me Gif" width="63" height="63">
 
-🎓 I'm a Computer Engineering graduate from TED University (2023) with a minor in Business Administration.  
+🎓 I'm a Computer Engineering graduate from TED University with a minor in Business Administration.  
 🏋️ Currently developing myself in backend technologies, particularly the Spring framework/Spring Boot.  
 ✨ Passionate about software engineering and always eager to take on new challenges.
 &nbsp;
