@@ -53,7 +53,7 @@
       <br>Spring Boot
     </td>
     <td align="center" width="96">
-      <img src="https://banner2.cleanpng.com/20180920/ztj/kisspng-hibernate-object-relational-mapping-java-spring-fr-hibernate-logo-svg-vector-amp-png-transparent-1713935223258.webp" width="48" height="48" alt="Hibernate" />
+      <img src="https://quizizz.com/media/resource/gs/quizizz-media/quizzes/ab6693b3-c443-453b-aacc-581034c72090" width="48" height="48" alt="Hibernate" />
       <br>Hibernate
     </td>
     <td align="center" width="96">
