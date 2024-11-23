@@ -53,7 +53,7 @@
       <br>Spring Boot
     </td>
     <td align="center" width="96">
-      <img src="https://static-00.iconduck.com/assets.00/hibernate-icon-1965x2048-cl94vxbt.png" width="48" height="48" alt="Hibernate" />
+      <img src="https://p7.hiclipart.com/preview/905/11/782/5bbe869ca1895-thumbnail.jpg" width="48" height="48" alt="Hibernate" />
       <br>Hibernate
     </td>
     <td align="center" width="96">
