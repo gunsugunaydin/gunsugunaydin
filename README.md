@@ -53,7 +53,7 @@
       <br>Spring Boot
     </td>
     <td align="center" width="96">
-      <img src="https://p7.hiclipart.com/preview/905/11/782/5bbe869ca1895-thumbnail.jpg" width="48" height="48" alt="Hibernate" />
+      <img src="https://icon2.cleanpng.com/20180920/zhj/kisspng-hibernate-object-relational-mapping-java-spring-fr-hibernate-logo-svg-vector-amp-png-transparent-1713935179675.webp" width="48" height="48" alt="Hibernate" />
       <br>Hibernate
     </td>
     <td align="center" width="96">
