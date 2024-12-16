@@ -18,6 +18,9 @@
   <a href="https://www.instagram.com/gunsugunaydin/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+  <a href="https://x.com/gunsugunaydin">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
 </p>
 
 ## Languages and Tools <img src="https://media.tenor.com/DJZg821DI_IAAAAi/peach-goma-pc-bag-wiggling-paws.gif" alt=" Languages and Tools Gif" width="60" height="60">
