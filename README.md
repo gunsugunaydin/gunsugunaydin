@@ -41,6 +41,10 @@
       <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" width="48" height="48" alt="C#" />
       <br>C#
     </td>
+    <td align="center" width="96">
+      <img src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png" width="48" height="48" alt="C#" />
+      <br>Python
+    </td>
     </td>
   </tr>
 </table>
