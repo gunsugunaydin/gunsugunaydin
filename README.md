@@ -42,7 +42,7 @@
       <br>C#
     </td>
     <td align="center" width="96">
-      <img src="https://tse4.mm.bing.net/th?id=OIP.8L9Q5v4RcMwyfa8Gw1iccAHaHs&w=474&h=474&c=7" width="48" height="48" alt="Python" />
+      <img src="https://www.pngmart.com/files/7/Python-PNG-File.png" width="48" height="48" alt="Python" />
       <br>Python
     </td>
     </td>
