@@ -42,7 +42,7 @@
       <br>C#
     </td>
     <td align="center" width="96">
-      <img src="https://e7.pngegg.com/pngimages/621/411/png-clipart-computer-icons-python-anaconda-anaconda-angle-other-thumbnail.png" width="48" height="48" alt="C#" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCHi18uXFtRb1_q7pQIVxYlwqvhVzCzZ4PQ&s" width="48" height="48" alt="C#" />
       <br>Python
     </td>
     </td>
