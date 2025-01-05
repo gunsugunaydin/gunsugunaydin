@@ -42,7 +42,7 @@
       <br>C#
     </td>
     <td align="center" width="96">
-      <img src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png" width="48" height="48" alt="C#" />
+      <img src="https://img1.pnghut.com/t/24/0/1/qjau3kpfDZ/rectangle-symbol-javascript-brand-yellow.jpg" width="48" height="48" alt="C#" />
       <br>Python
     </td>
     </td>
