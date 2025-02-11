@@ -87,7 +87,7 @@
       <br>Visual Studio
     </td>
     <td align="center" width="96">
-      <img src="https://seeklogo.com/images/S/swagger-logo-A49F73BAF4-seeklogo.com.png" width="48" height="48" alt="Swagger" />
+      <img src="https://vectorseek.com/wp-content/uploads/2023/08/Swagger-Logo-Vector.svg-.png" width="48" height="48" alt="Swagger" />
       <br>Swagger
     </td>
     <td align="center" width="96">
@@ -99,7 +99,7 @@
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.icon-icons.com/icons2/3685/PNG/512/github_logo_icon_229278.png" width="48" height="48" alt="GitHub" />
+      <img src="https://pngimg.com/uploads/github/github_PNG20.png" width="48" height="48" alt="GitHub" />
       <br>GitHub
     </td>
     <td align="center" width="96">
