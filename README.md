@@ -99,7 +99,7 @@
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://images.seeklogo.com/logo-png/50/2/github-icon-logo-png_seeklogo-503247.png" width="48" height="48" alt="GitHub" />
+      <img src="https://www.freeiconspng.com/uploads/github-icon-7.png" width="48" height="48" alt="GitHub" />
       <br>GitHub
     </td>
     <td align="center" width="96">
