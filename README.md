@@ -2,9 +2,9 @@
 
 ## About Me <img src="https://media.tenor.com/nBQQ6XM5BhIAAAAj/cute.gif" alt="About Me Gif" width="63" height="63">
 
-🎓 Computer Engineering graduate from TED University with a minor in Management.
-💼 Software Engineer at ICTerra, working on licensing systems using Java, Spring Boot, Hibernate, MSSQL, and React.
-🏋️ Focused on backend development, continuously improving my expertise in the Spring ecosystem.
+🎓 Computer Engineering graduate from TED University with a minor in Management.<br>
+💼 Software Engineer at ICTerra, working on licensing systems using Java, Spring Boot, Hibernate, MSSQL, and React.<br>
+🏋️ Focused on backend development, continuously improving my expertise in the Spring ecosystem.<br>
 ✨ Passionate about software engineering and always eager to take on new challenges.
 &nbsp;
 ## Contact Me <img src="https://media.tenor.com/ggjli1Kk3s4AAAAi/phone.gif" alt="Contact Me Gif" width="60" height="60">
