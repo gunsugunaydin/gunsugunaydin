@@ -114,7 +114,7 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" width="48" height="48" alt="PostgreSQL" />
+      <img src="https://e7.pngegg.com/pngimages/707/928/png-clipart-postgresql-logo-database-management-system-graphics-sql-logo-blue-text.png" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
